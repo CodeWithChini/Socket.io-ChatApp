@@ -10,7 +10,7 @@ A simple real-time chat application built with **React.js**, **Node.js**, **Expr
 
 ![Chat App](./Screenshots/1%20(1).png)
 ![Chat App](./Screenshots/1%20(2).png)
-![Chat App](./Screenshots/1%20(3).png)
+![Chat App](./Screenshots/Screenshot%202026-07-22%20195051.png)
 
 ---
 
