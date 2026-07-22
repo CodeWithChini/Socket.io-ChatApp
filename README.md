@@ -6,8 +6,6 @@ A simple real-time chat application built with **React.js**, **Node.js**, **Expr
 
 ## 📸 Preview
 
-> Add screenshots of your project here.
-
 ### Home Screen
 
 ![Chat App](./Screenshots/1%20(1).png)
